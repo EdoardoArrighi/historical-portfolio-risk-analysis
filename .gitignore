@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Portfolio data protection
+data/raw/*
+data/processed/*
+
+# Environment variables and credentials
+.env
